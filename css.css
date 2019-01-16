@@ -1,0 +1,40 @@
+.Judul{
+	background-color: black; 
+	color: white; 
+	line-height: 1.5cm; 
+	text-align: center;
+}
+.tengah{
+	text-align : center;
+}
+.menu{
+	font-size:16px;
+	background-color: green;
+}
+ 
+.btn :hover {
+	text-decoration: underline;
+	background:#16a085;
+}
+
+.btn1{
+	border-radius: 10px;
+	line-height: 30px;
+	background-color: green;
+	width: 100px;
+	font: futura;
+}
+.btn{
+	background-color: #1abc9c;
+	border: none; 
+	border-radius : 2px; 
+	color: white;
+	font-size: 13px;
+}
+.eh{
+	word-spacing: 0.5cm;
+	text-align: center;
+}
+.body{
+
+}
